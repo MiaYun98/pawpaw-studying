@@ -56,7 +56,7 @@ It sores data into the local storage, indexed.DB, useing manifest, and etc that 
 
 ## Live Website
 
-![Alt text](../../../../../../C:/Users/MIA/bootcamp/homework/pawpaw-studying/Untitled.png)
+![Alt text](Untitled.png)
 https://pawpawjate.herokuapp.com/
 
 ## Language 
