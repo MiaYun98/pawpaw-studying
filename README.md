@@ -2,6 +2,13 @@
 
 ## Description 
 
+Jate stands for Just another Text editor. 
+
+You can use this even if its online if you visited this page before with an internet connection. 
+
+All the data save in the local storage and also each changes saved in the Database 
+
+This is one of the program that using a PWA thats the reason why I choose the repo name to pawpaw. 
 
 ## User Story 
 
@@ -49,6 +56,8 @@ It sores data into the local storage, indexed.DB, useing manifest, and etc that 
 
 ## Live Website
 
+![Alt text](../../../../../../C:/Users/MIA/bootcamp/homework/pawpaw-studying/Untitled.png)
+https://pawpawjate.herokuapp.com/
 
 ## Language 
 
